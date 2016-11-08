@@ -43,5 +43,4 @@ boil.hpBar.prototype = {
   update: function() {
     this.life.updateCrop();
   }
-//});
 };
