@@ -12,7 +12,7 @@ boil.hpBar.prototype = {
     bmd.ctx.fillStyle = '#400303';
     bmd.ctx.fill();
 
-     this.game.world.centerY, bmd);
+//     this.game.world.centerY, bmd);
     hpBar.anchor.set(0.5);
 
     bmd = this.game.add.bitmapData(280, 30);
