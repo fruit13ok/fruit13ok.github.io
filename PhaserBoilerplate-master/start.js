@@ -44,6 +44,9 @@ boil.start.prototype = {
         this.load.image('introgenericbutton', 'assets/images/intro1.png');
         this.load.image('up', 'assets/images/up_orange_big.png');
         this.load.image('down', 'assets/images/down_orange_big.png');
+        //
+        this.load.spritesheet('npc2', 'assets/images/girl1.png', 1197,1350);
+        this.load.spritesheet('npc1', 'assets/Spritesheets/Player2.png', 1000,1550);
     },
     
 
