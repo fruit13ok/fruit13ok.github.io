@@ -28,7 +28,7 @@ boil.start.prototype = {
         this.load.image('building', 'assets/tiles/building.png');
         this.load.image('tiles', 'assets/tiles/tiles.png');
         this.load.image('trees', 'assets/Backgrounds/treeBG.png');
-        this.load.spritesheet('corruption', 'assets/spritesheets/corruption.png', 300, 720);
+        this.load.spritesheet('corruption', 'assets/Spritesheets/corruption.png', 300, 720);
         this.load.spritesheet('textbox','assets/images/frame.png', 1350, 260);
         this.load.audio('music', 'assets/thunder.mp3');
         this.load.image('myoption', 'assets/images/option1.png');
