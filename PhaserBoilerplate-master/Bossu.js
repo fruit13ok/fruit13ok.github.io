@@ -39,7 +39,7 @@ boil.Bossu.prototype = {
 			this.load.spritesheet('red_bar', 'assets/images/hpBar.png');
         this.load.spritesheet('pink_bar', 'assets/images/bosshpBar.png');
 			this.load.spritesheet('black_bar', 'assets/images/black_bar.png');
-			this.load.spritesheet('green_bar', 'assets/images/manabar.png');
+			this.load.spritesheet('green_bar', 'assets/images/manaBar.png');
 			this.load.spritesheet('avatar_box', 'assets/images/avatar_box.png');
 			this.load.image('background', 'assets/images/grass_all.png');
 			this.game.load.spritesheet('explosion', 'assets/images/explosion.png', 128, 128);
