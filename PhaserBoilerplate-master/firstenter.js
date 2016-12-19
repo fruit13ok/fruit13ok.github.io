@@ -62,7 +62,7 @@ boil.firstenter.prototype = {
         this.load.spritesheet('gate2', 'assets/spritesheets/d gates (5).png', 240, 180);
         this.load.spritesheet('gate3', 'assets/spritesheets/d gates (3).png', 250, 300);
         this.load.spritesheet('textbox','assets/images/frame.png', 1350, 260);
-        this.load.spritesheet('sans','assets/spritesheets/sans.png', 420, 420);
+        this.load.spritesheet('sans','assets/Spritesheets/sans.png', 420, 420);
         this.load.spritesheet('kirby','assets/images/kirby.png', 384, 280);
         this.load.spritesheet('pikachu','assets/images/pikachu.png', 426, 550);
         this.load.spritesheet('npc9', 'assets/images/LPCportrait9.png', 300,380);
