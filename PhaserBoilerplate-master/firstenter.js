@@ -43,7 +43,7 @@ boil.firstenter.prototype = {
         game.load.audio('jc', 'assets/johnC.mp3');
         game.load.image('hp', 'assets/images/healthBar.png')
 
-			//this.load.spritesheet('character', 'assets/Spritesheets/bossDude.png', 134,168);
+			this.load.spritesheet('character', 'assets/Spritesheets/bossDude.png', 134,168);
 			this.load.spritesheet('red_bar', 'assets/images/hpBar.png');
 			this.load.spritesheet('black_bar', 'assets/images/black_bar.png');
 			this.load.spritesheet('green_bar', 'assets/images/manabar.png');
