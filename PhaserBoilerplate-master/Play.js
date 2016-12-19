@@ -47,7 +47,7 @@ boil.Play.prototype = {
         this.load.spritesheet('npc9', 'assets/images/LPCportrait9.png', 300,380);
         this.load.spritesheet('npc8', 'assets/images/LPCportrait8.png', 300,380);
         this.load.spritesheet('npc7', 'assets/images/LPCportrait7.png', 300,380);
-        this.load.spritesheet('npc6', 'assets/images/man1.png', 254,256);
+        this.load.spritesheet('npc6', 'assets/images/man1.png', 256,254);   //254,256
         this.load.spritesheet('npc5', 'assets/Spritesheets/Player2.png', 1000,1550);
         this.load.spritesheet('npc4', 'assets/images/oldman1.png', 269,615);
         this.load.spritesheet('npc3', 'assets/Spritesheets/Player2.png', 1000,1550);
