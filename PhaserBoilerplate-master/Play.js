@@ -36,10 +36,10 @@ boil.Play.prototype = {
         this.load.image('building', 'assets/tiles/building.png');
         this.load.image('Tiles', 'assets/tiles/tiles.png');
         this.load.image('trees', 'assets/Backgrounds/treeBG.png');
-        this.load.spritesheet('player', 'assets/spritesheets/dude.png', 134, 168);
-        this.load.spritesheet('gate', 'assets/spritesheets/d gates (4).png', 240, 180);
-        this.load.spritesheet('gate2', 'assets/spritesheets/d gates (5).png', 240, 180);
-        this.load.spritesheet('gate3', 'assets/spritesheets/d gates (3).png', 250, 300);
+        this.load.spritesheet('player', 'assets/Spritesheets/dude.png', 134, 168);
+        this.load.spritesheet('gate', 'assets/Spritesheets/d gates (4).png', 240, 180);
+        this.load.spritesheet('gate2', 'assets/Spritesheets/d gates (5).png', 240, 180);
+        this.load.spritesheet('gate3', 'assets/Spritesheets/d gates (3).png', 250, 300);
         this.load.spritesheet('textbox','assets/images/frame.png', 1350, 260);
         this.load.spritesheet('sans','assets/images/ppl2.png', 171, 207);
         this.load.spritesheet('kirby','assets/images/kirby.png', 384, 280);

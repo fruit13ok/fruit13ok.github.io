@@ -35,7 +35,7 @@ boil.Bossu.prototype = {
 
 			this.load.spritesheet('enemy', 'assets/images/allenemy.png', 192, 142);
 			this.load.spritesheet('enemyBig', 'assets/Spritesheets/boss.png', 268, 344);
-			this.load.spritesheet('character', 'assets/spritesheets/bossDude.png', 134,168);
+			this.load.spritesheet('character', 'assets/Spritesheets/bossDude.png', 134,168);
 			this.load.spritesheet('red_bar', 'assets/images/hpBar.png');
         this.load.spritesheet('pink_bar', 'assets/images/bosshpBar.png');
 			this.load.spritesheet('black_bar', 'assets/images/black_bar.png');

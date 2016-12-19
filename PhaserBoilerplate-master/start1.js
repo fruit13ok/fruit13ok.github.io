@@ -38,9 +38,9 @@ boil.start1.prototype = {
         this.load.image('nbuilding', 'assets/tiles/green/nbuilding.png');
         this.load.image('Tiles', 'assets/tiles/green/Tiles.png');
         this.load.image('trees', 'assets/Backgrounds/treeBG.png');
-        this.load.spritesheet('player', 'assets/spritesheets/dude.png', 134, 168);
-        this.load.spritesheet('gate2', 'assets/spritesheets/greenGate1.png', 288, 216);
-        this.load.spritesheet('gate3', 'assets/spritesheets/greenGate.png', 144, 177);
+        this.load.spritesheet('player', 'assets/Spritesheets/dude.png', 134, 168);
+        this.load.spritesheet('gate2', 'assets/Spritesheets/greenGate1.png', 288, 216);
+        this.load.spritesheet('gate3', 'assets/Spritesheets/greenGate.png', 144, 177);
         this.load.spritesheet('textbox','assets/images/frame.png', 1350, 260);
         this.load.spritesheet('sans','assets/spritesheets/sans.png', 420, 420);
         this.load.spritesheet('kirby','assets/images/kirby.png', 384, 280);
