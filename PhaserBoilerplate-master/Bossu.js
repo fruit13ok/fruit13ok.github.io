@@ -42,7 +42,7 @@ boil.Bossu.prototype = {
 			this.load.spritesheet('green_bar', 'assets/images/manaBar.png');
 			this.load.spritesheet('avatar_box', 'assets/images/avatar_box.png');
 			this.load.image('background', 'assets/images/grass_all.png');
-			this.game.load.spritesheet('explosion', 'assets/images/explosion.png', 128, 128);
+			//this.game.load.spritesheet('explosion', 'assets/images/explosion.png', 128, 128);
 			this.game.load.spritesheet('explosion_char', 'assets/images/char_blood2.png', 128, 128);
 			this.game.load.spritesheet('explosionb', 'assets/images/explosion_5.png', 120, 120);
 			this.game.load.spritesheet('energy_globe', 'assets/images/energy_globe.png', 160, 134);
